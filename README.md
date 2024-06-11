@@ -1,4 +1,4 @@
-There are 2 files with blocked ids because I couldnd upload files that are bigger than 25 mb to github. After downloading just combine it to 1 file.
+There are 2 files with blocked ids because I couldnd upload file bigger than 25 MB to github. After downloading just combine it to 1 file.
 ###
 Finder file is just finder packed in 1 .py file.
 ###
